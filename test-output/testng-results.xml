@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-09T01:12:49 IST" name="Default suite" finished-at="2023-10-09T01:13:28 IST" duration-ms="39021">
+    <groups>
+    </groups>
+    <test started-at="2023-10-09T01:12:49 IST" name="Default test" finished-at="2023-10-09T01:13:28 IST" duration-ms="39021">
+      <class name="pracproject.phptravelstest">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:pracproject.phptravelstest@31304f14]" started-at="2023-10-09T01:12:49 IST" name="launchBrowser" finished-at="2023-10-09T01:12:53 IST" duration-ms="3828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="Dashboard()[pri:0, instance:pracproject.phptravelstest@31304f14]" started-at="2023-10-09T01:12:53 IST" name="Dashboard" finished-at="2023-10-09T01:12:53 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dashboard -->
+        <test-method signature="loginBtn()[pri:0, instance:pracproject.phptravelstest@31304f14]" started-at="2023-10-09T01:12:53 IST" name="loginBtn" finished-at="2023-10-09T01:12:56 IST" duration-ms="2504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginBtn -->
+        <test-method signature="settingsCollapse()[pri:0, instance:pracproject.phptravelstest@31304f14]" started-at="2023-10-09T01:12:56 IST" name="settingsCollapse" finished-at="2023-10-09T01:13:28 IST" duration-ms="32366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settingsCollapse -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:pracproject.phptravelstest@31304f14]" started-at="2023-10-09T01:13:28 IST" name="closeBrowser" finished-at="2023-10-09T01:13:28 IST" duration-ms="243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- pracproject.phptravelstest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
